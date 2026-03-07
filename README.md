@@ -9,8 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Siddhib022&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/Siddhib022/Siddhib022/blob/main/SiddhiBhosale_Resume1.pdf">
+<a href="https://raw.githubusercontent.com/Siddhib022/Siddhib022/main/SiddhiBhosale_Resume1.pdf">
 <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
