@@ -2,7 +2,15 @@
 <h3 align="center">Aspiring Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-<a href="YOUR_RESUME_LINK">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Developer;Java+Enthusiast;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Siddhib022&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Siddhib022/Siddhib022/blob/main/SiddhiBhosale_Resume1.pdf">
 <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
@@ -54,16 +62,17 @@
 🔹 **OmniFood Landing Page**  
 Developed a responsive food delivery landing page using **HTML, CSS, and JavaScript** focusing on UI and performance.
 
-🔹 **Java + MySQL Application**  
-Built a database-driven application using **Java and MySQL** implementing CRUD operations.
+🔹 **IoT Integrated Gum Massager Instrument**  
+Designed and implemented an IoT-based device using **ESP32, vibration motor, lithium-ion battery, and Blynk app**. :contentReference[oaicite:0]{index=0}
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhib022&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhib022&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhib022&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhib022&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
