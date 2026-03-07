@@ -64,16 +64,6 @@ Developed a responsive food delivery landing page using **HTML, CSS, and JavaScr
 
 🔹 **IoT Integrated Gum Massager Instrument**  
 Designed and implemented an IoT-based device using **ESP32, vibration motor, lithium-ion battery, and Blynk app**. :contentReference[oaicite:0]{index=0}
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhib022&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhib022&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ⭐ From [Siddhib022](https://github.com/Siddhib022)
