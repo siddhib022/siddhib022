@@ -63,5 +63,6 @@
 Developed a responsive food delivery landing page using **HTML, CSS, and JavaScript** focusing on UI and performance.
 
 🔹 **IoT Integrated Gum Massager Instrument**  
-Designed and implemented an IoT-based device using **ESP32, vibration motor, lithium-ion battery, and Blynk app**. :contentReference[oaicite:0]{index=0}
+Designed and implemented an IoT-based device using **ESP32, vibration motor, lithium-ion battery, and Blynk app**. 
+
 ⭐ From [Siddhib022](https://github.com/Siddhib022)
