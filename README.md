@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href=" www.linkedin.com/in/siddhi-bhosale-979006373">
+<a href="https://www.linkedin.com/in/siddhi-bhosale-979006373">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -61,9 +61,9 @@ Built a database-driven application using **Java and MySQL** implementing CRUD o
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddhib022&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhib022&layout=compact&theme=tokyonight)
 
 ---
 
