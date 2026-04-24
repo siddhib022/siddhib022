@@ -31,7 +31,7 @@
 
 🎓 **ECE Graduate (2025)** passionate about building responsive and scalable web applications.
 
-💻 Skilled in **Java, HTML, CSS, JavaScript, and MySQL** with interest in **Full Stack Development**.
+💻 Skilled in **Java, HTML, CSS, JavaScript,Manual Testing and MySQL** with interest in **Full Stack Development**.
 
 🚀 Currently improving **problem-solving skills and backend development knowledge**.
 
