@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Siddhib022/Siddhib022/blob/main/SiddhiBhosale_Resume1.pdf">
+<a href="https://drive.google.com/file/d/1YkgQLCu_TMcirvlH_acKIHXGKNfQlBPW/view?usp=drive_link">
 <img src="https://img.shields.io/badge/Download%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
